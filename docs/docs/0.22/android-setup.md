@@ -16,7 +16,7 @@
 1. [安装最新版的JDK](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
 
 2. 安装Android SDK: 
-  - **Mac**: `brew install android-sdk`  
+  - **Mac**: `brew cask install android-sdk`  
   - **Linux或Windows**: [从Android开发者官网下载](https://developer.android.com/sdk/installing/index.html)  
 __译注__：国内用户推荐从[AndroidDevTools](http://androiddevtools.cn/)下载。
 
